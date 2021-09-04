@@ -1,0 +1,21 @@
+.welcome-container {
+  background-image: url('../assets/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 650px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.welcome-container .welcome-button {
+  --green: rgba(35, 183, 164, 0.3);
+  background-color: var(--green) !important;
+  border-color: var(--green) !important;
+  color: white !important; 
+  margin-right: 10px !important;
+}
+
+.welcome-container .welcome-button:hover {
+  background-color: rgba(35, 183, 164, 1) !important;
+}

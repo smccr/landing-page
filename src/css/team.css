@@ -1,0 +1,40 @@
+.team-container {
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+.team-container .team-title {
+  margin-bottom: 50px;
+}
+
+.team-container .team-card {
+  background-color: rgb(225, 230, 234) !important;
+  /* width: 18rem; */
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.team-container .team-card:hover{
+  color: white;
+  background-color: rgb(58, 69, 77) !important;
+  transition-duration: 0.2s;
+}
+
+.team-container .team-card .social {
+  color: white;
+  background-color: rgb(58, 69, 77);
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 180px;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+}
+
+.team-container .team-card:hover .social{
+  transition-duration: 0.2s;
+  opacity: 1;
+}
+

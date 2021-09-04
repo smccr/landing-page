@@ -1,0 +1,14 @@
+.navlink {
+  color: white !important;
+  margin-left: 15px;
+  margin-right: 15px;
+  
+}
+
+.navlink:hover {
+  color: rgb(35, 183, 164) !important;
+}
+
+.navbar-brand {
+  color: white !important;
+}

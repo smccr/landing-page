@@ -1,0 +1,20 @@
+.description-container {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.description-container .title {
+  margin-bottom: 60px;
+}
+
+.description-container .paragraph-number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(35, 183, 164);
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+}

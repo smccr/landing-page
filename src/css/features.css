@@ -1,0 +1,21 @@
+.features-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(58, 69, 77);
+  color: white;
+  height: auto;
+}
+
+.features-container .features-title {
+  padding-bottom: 50px;
+}
+
+.features-container .features-card {
+  background-color: rgb(58, 69, 77);
+  border-color: rgb(58, 69, 77);
+}
+
+.features-card .features-cardbody {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}

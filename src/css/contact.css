@@ -1,0 +1,20 @@
+.contact-container {
+  padding-top: 50px;
+  height: 900px;
+}
+
+.contact-container .contact-title {
+  padding-bottom: 50px;
+}
+
+.contact-container .contact-map-img {
+  width: 100%;
+}
+
+.contact-container .contact-information {
+  padding-top: 30px;
+}
+
+.contact-container .button-send {
+  background-color: rgb(35, 183, 164);
+}

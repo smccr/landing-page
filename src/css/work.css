@@ -1,0 +1,18 @@
+.work-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(58, 69, 77);
+  color: white;
+  height: auto;
+}
+
+.work-container .work-title {
+  padding-bottom: 20px;
+}
+
+.work-container .work-card {
+  width: '20rem';
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: rgb(58, 69, 77) !important;
+}
